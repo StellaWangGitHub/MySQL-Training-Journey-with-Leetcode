@@ -10,3 +10,8 @@ update:
 June 22, 2020: upload SQL_leetcode_I
                 
                super useful website: https://www.interviewbit.com/sql-interview-questions/#questions
+               
+               
+               
+June 24, 2020: upload SQL_leetcode_II (without pdf version since I will add more practice question to this file soon.)
+
